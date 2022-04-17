@@ -166,7 +166,7 @@
 
 ## 计算机系统
 
-[《深入理解计算机系统 by Randal E. Bryant, David R. O’Hallaron》](https://pan.baidu.com/s/12ZvYccAygddgsOdvyfEiVw) 提取码:d8a2
+[《深入理解计算机系统 by Randal E. Bryant, David R. O’Hallaron》](https://pan.baidu.com/s/1vwS8rZ_GFAHutJ9M39Kz8A) 提取码: 4p86
 
 [《计算的本质：深入剖析程序和计算机》](https://pan.baidu.com/s/1NWPptiiC6l6cvFn07cf1Qw) 提取码:rwgd
 
